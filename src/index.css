@@ -1,0 +1,6 @@
+/* src/index.css */
+@import "tailwindcss";
+
+details summary {
+  list-style: none;
+}
